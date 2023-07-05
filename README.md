@@ -71,7 +71,12 @@
       </div>
     </div>
   <h3>My stats</h3>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=antonsadovskiy&theme=tokyonight-duo)](https://git.io/streak-stats)
+  <div>
+    <img src="https://streak-stats.demolab.com?user=antonsadovskiy&theme=tokyonight&hide_border=true"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsadovskiy&layout=compact&theme=tokyonight&hide_border=true"/>
+  </div>
   </div>
 </div>
 
