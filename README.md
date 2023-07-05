@@ -15,23 +15,62 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
   </a>
   </div>
+  <h3 align="center">Stack</h3>
   <div>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-    </a>
-    <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-    </a>
-   <a href="https://react.dev/" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-   </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
-    <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-tx16mhk6.png" title="Ant design" alt="Ant Design" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
-    <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" title="Formik" alt="Formik" width="50" height="50"/>&nbsp;
-    <img src="https://cdn.coursehunter.net/category/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+    <div>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+      </a>
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+      </a>
+       <a href="https://react.dev/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+       </a>
+        <a href="https://redux.js.org/" target="_blank">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://sass-scss.ru/guide/" target="_blank">
+          <img src="https://sass-scss.ru/assets/img/styleguide/seal-color-aef0354c.png" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://storybook.js.org/" target="_blank">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
+        </a>
+      </div>
+      <div>
+        <a href="https://mui.com/" target="_blank">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://ant.design/" target="_blank">
+          <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-tx16mhk6.png" title="Ant design" alt="Ant Design" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://jestjs.io/ru/" target="_blank">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://formik.org/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" title="Formik" alt="Formik" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://cdn.coursehunter.net/category/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://vitejs.dev/" target="_blank">
+          <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://pnpm.io/" target="_blank">
+          <img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/bdc5b/ru/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg" title="pnpm" alt="pnpm" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://yarnpkg.com/" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/22247014?s=280&v=4" title="yarn" alt="yarn" width="50" height="50"/>&nbsp;
+        </a>  
+      </div>
+    </div>
+  <h3>My stats</h3>
   </div>
 </div>
 
