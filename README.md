@@ -74,6 +74,7 @@
   <div>
     <img src="https://streak-stats.demolab.com?user=antonsadovskiy&theme=tokyonight&hide_border=true"/>
   </div>
+  <h3>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsadovskiy&layout=compact&theme=tokyonight&hide_border=true"/>
   </div>
