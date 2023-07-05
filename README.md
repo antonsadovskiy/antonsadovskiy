@@ -71,6 +71,7 @@
       </div>
     </div>
   <h3>My stats</h3>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=antonsadovskiy&theme=tokyonight-duo)](https://git.io/streak-stats)
   </div>
 </div>
 
