@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h3>Hi 👋, I am Anton Sadovskiy</h3>
-  <p>Front-end developer and Software engineer from Belarus 💻</p>
+  <p>Software engineer and Front-end developer from Belarus 💻</p>
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="220" />
   
   <h3 align="center">Contacts</h3>
