@@ -96,6 +96,12 @@
   </div>
   <h3>
   <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=antonsadovskiy&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true" />
+  </a>
+  </div>
+  <h3>
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonsadovskiy&layout=compact&theme=tokyonight&hide_border=true"/>
   </div>
   </div>
