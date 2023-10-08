@@ -64,6 +64,9 @@
         </a>
       </div>
       <div>
+        <a href="https://www.convex.dev/" target="_blank">
+          <img src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63a305cb6395c23dac159596_convex.svg" title="convex" alt="convex" width="50" height="50"/>&nbsp;
+        </a>
         <a href="https://mui.com/" target="_blank">
           <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
         </a>
@@ -76,9 +79,17 @@
         <a href="https://formik.org/" target="_blank">
           <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" title="Formik" alt="Formik" width="50" height="50"/>&nbsp;
         </a>
+        <a href="https://react-hook-form.com/" target="_blank">
+          <img src="https://devnote.tech/wp-content/uploads/2023/06/react-hook-form-logo-only.png" title="React-hook-form" alt="React-hook-form" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://react.i18next.com/" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" title="i18next" alt="i18next" width="50" height="50"/>&nbsp;
+        </a>  
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://cdn.coursehunter.net/category/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
         </a>
+      </div>
+      <div>
         <a href="https://vitejs.dev/" target="_blank">
           <img src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
         </a>
