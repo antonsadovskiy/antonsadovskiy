@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
   </a>
   </div>
-  <h3>Projects</h3>
+  <h3>Pet projects</h3>
       <a href="https://stydy-cards.vercel.app" target="_blank">
         <span>🎓Training Cards</span>
       </a>
@@ -80,13 +80,16 @@
           <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" title="Formik" alt="Formik" width="50" height="50"/>&nbsp;
         </a>
         <a href="https://react-hook-form.com/" target="_blank">
-          <img src="https://devnote.tech/wp-content/uploads/2023/06/react-hook-form-logo-only.png" title="React-hook-form" alt="React-hook-form" width="50" height="50"/>&nbsp;
+          <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" title="React-hook-form" alt="React-hook-form" width="50" height="50"/>&nbsp;
         </a>
         <a href="https://react.i18next.com/" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" title="i18next" alt="i18next" width="50" height="50"/>&nbsp;
         </a>  
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://cdn.coursehunter.net/category/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" title="Git" alt="Git" width="auto" height="50"/>&nbsp;
         </a>
       </div>
       <div>
