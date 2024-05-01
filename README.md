@@ -5,7 +5,7 @@
   
   <h3 align="center">Contacts</h3>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/anton-sadovskiy-ba8b13242" target="_blank">
+  <a href="https://www.linkedin.com/in/anton-sadovskiy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/asadovskiyy" target="_blank">
@@ -88,8 +88,8 @@
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://cdn.coursehunter.net/category/git.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
         </a>
-        <a href="https://git-scm.com/" target="_blank">
-          <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" title="Git" alt="Git" width="auto" height="50"/>&nbsp;
+        <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+          <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" title="Zustand" alt="Zustand" width="auto" height="50"/>&nbsp;
         </a>
       </div>
       <div>
