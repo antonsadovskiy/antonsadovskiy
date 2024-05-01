@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/anton-sadovskiy-ba8b13242" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/antonnchik" target="_blank">
+  <a href="https://t.me/asadovskiyy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:antonsadovskiy6@gmail.com" target="_blank">
