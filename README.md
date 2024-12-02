@@ -1,9 +1,9 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <h2>Hi 👋, I am Anton Sadovskiy</h3>
   <h4>Software engineer and Front-end developer from Belarus 💻</p>
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="220" />
   
-  <h3 align="left">Contacts</h3>
+  <h3 align="center">Contacts</h3>
   <div id="badges">
   <a href="https://www.linkedin.com/in/anton-sadovskiy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
   </a>
   </div>
-  <h3 align="left">Stack</h3>
+  <h3 align="center">Stack</h3>
   <div>
     <div>
       <a href="https://www.typescriptlang.org/" target="_blank">
